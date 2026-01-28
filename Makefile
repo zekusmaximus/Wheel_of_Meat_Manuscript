@@ -1,0 +1,2 @@
+wc:
+	./scripts/wordcount.sh
