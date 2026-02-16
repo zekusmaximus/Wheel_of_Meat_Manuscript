@@ -1,4 +1,4 @@
-# The Wheel of Meat — Manuscript Repository
+# The Wheel of Meat - Manuscript Repository
 
 This repository contains the working manuscript for my novel **_The Wheel of Meat_**, drafted and revised entirely in public.
 
